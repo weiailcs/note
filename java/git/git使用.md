@@ -14,3 +14,11 @@ ssh-keygen -t rsa -C "xxx@xxx.com" (比如qq邮箱)
 
 
 
+git核心
+
+![image-20210819205633078](../../../asserts/git使用/image-20210819205633078.png)
+
+
+
+![image-20210819205951895](../../../asserts/git使用/image-20210819205951895.png)
+
